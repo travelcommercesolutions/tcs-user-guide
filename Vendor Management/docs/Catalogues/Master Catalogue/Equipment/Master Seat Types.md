@@ -1,0 +1,1 @@
+# Master Seat Types

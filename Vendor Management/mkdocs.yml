@@ -1,0 +1,148 @@
+site_name: Vendor Management
+
+nav:    
+    - Overview: index.md
+    - Profiles:
+        - Overview: Profiles/Overview.md
+        - Customer Profiles: Profiles/Customer Profiles.md
+        - Organisation Profiles: Profiles/Organisation Profiles.md
+        - Vendor Profile: Profiles/Vendor Profile.md
+        - User Accounts: Profiles/User Accounts.md
+        - User Profile: Profiles/User Profile.md
+    - Catalogues:
+        - Overview: Catalogues/Overview.md
+        - Master Catalogue:
+            - Overview: Catalogues/Master Catalogue/Overview.md
+            - Destinations:
+                - Overview: Catalogues/Master Catalogue/Destinations/Overview.md
+                - World Areas: Catalogues/Master Catalogue/Destinations/World Areas.md
+                - Continents: Catalogues/Master Catalogue/Destinations/Continents.md
+                - Sub-Regions: Catalogues/Master Catalogue/Destinations/Sub-Regions.md
+                - Countries: Catalogues/Master Catalogue/Destinations/Countries.md
+                - Territories: Catalogues/Master Catalogue/Destinations/Territories.md
+                - Cities & POI: Catalogues/Master Catalogue/Destinations/Cities and POI.md
+                - Stations: Catalogues/Master Catalogue/Destinations/Stations.md
+                - Terminals: Catalogues/Master Catalogue/Destinations/Terminals.md
+                - Connection Times: Catalogues/Master Catalogue/Destinations/Connection Times.md
+            - Classes: Catalogues/Master Catalogue/Classes.md
+            - Equipment:
+                - Overview: Catalogues/Master Catalogue/Equipment/Overview.md
+                - Equipment Types: Catalogues/Master Catalogue/Equipment/Equipment Types.md
+                - Master Seat Types: Catalogues/Master Catalogue/Equipment/Master Seat Types.md
+            - Ancillaries: Catalogues/Master Catalogue/Ancillaries.md
+            - Amenities: Catalogues/Master Catalogue/Amenities.md
+        - Vendor Catalogue:
+            - Overview: Catalogues/Vendor Catalogue/Overview.md
+            - Destinations: 
+                - Overview: Catalogues/Vendor Catalogue/Destinations/Overview.md
+                - Countries: Catalogues/Vendor Catalogue/Destinations/Countries.md
+                - Cities & POI: Catalogues/Vendor Catalogue/Destinations/Cities and POI.md
+                - Stations: Catalogues/Vendor Catalogue/Destinations/Stations.md
+                - Terminals: Catalogues/Vendor Catalogue/Destinations/Terminals.md
+            - Classes: Catalogues/Vendor Catalogue/Classes.md
+            - Equipment:
+                - Overview: Catalogues/Vendor Catalogue/Equipment/Overview.md
+                - Seat Types: Catalogues/Vendor Catalogue/Equipment/Seat Types.md
+                - Equipment Types: Catalogues/Vendor Catalogue/Equipment/Equipment Types.md
+                - Equipment Configurations: Catalogues/Vendor Catalogue/Equipment/Equipment Configurations.md
+            - Transports:
+                - Overview: Catalogues/Vendor Catalogue/Transports/Overview.md
+                - Market Regions: Catalogues/Vendor Catalogue/Transports/Market Regions.md
+                - Legs: Catalogues/Vendor Catalogue/Transports/Legs.md
+                - Timetables: Catalogues/Vendor Catalogue/Transports/Timetables.md
+                - Transport Schedules: Catalogues/Vendor Catalogue/Transports/Transport Schedules.md
+                - Fleet Schedules: Catalogues/Vendor Catalogue/Transports/Fleet Schedules.md
+                - Routes: Catalogues/Vendor Catalogue/Transports/Routes.md
+                - Connections: Catalogues/Vendor Catalogue/Transports/Connections.md
+            - Ancillaries: Catalogues/Vendor Catalogue/Ancillaries.md
+            - Amenities: Catalogues/Vendor Catalogue/Amenities.md
+            - Virtual Payment Products: Catalogues/Vendor Catalogue/Virtual Payment Products.md
+            - Bundles: Catalogues/Vendor Catalogue/Bundles.md
+    - Inventory:
+        - Overview: Inventory/Overview.md
+        - Inventory Dashboard: Inventory/Inventory Dashboard.md
+    - Pricing & Profitability:
+        - Overview: Pricing and Profitability/Overview.md
+        - Costs: Pricing and Profitability/Costs.md
+        - Forecast:
+            - Overview: Pricing and Profitability/Forecast/Overview.md
+            - Demand Calendar: Pricing and Profitability/Forecast/Demand Calendar.md
+            - Event Calendar: Pricing and Profitability/Forecast/Event Calendar.md
+            - Manual Forecasts: Pricing and Profitability/Forecast/Manual Forecasts.md
+        - Price Lists: Pricing and Profitability/Price Lists.md
+        - Virtual Payment: Pricing and Profitability/Virtual Payment.md
+        - Dynamic Base Price: Pricing and Profitability/Dynamic Base Price.md
+        - Adjustments:
+            - Overview: Pricing and Profitability/Adjustments/Overview.md
+            - Yield Adjustments: Pricing and Profitability/Adjustments/Yield Adjustments.md
+            - Marketing Adjustments: Pricing and Profitability/Adjustments/Marketing Adjustments.md
+            - Strategic Adjustments:
+                - Overview: Pricing and Profitability/Adjustments/Strategic Adjustments/Overview.md
+                - Item Adjustments: Pricing and Profitability/Adjustments/Strategic Adjustments/Item Adjustments.md
+        - Taxes Fees & Charges:
+            - Overview: Pricing and Profitability/Taxes Fees and Charges/Overview.md
+            - Surcharges:
+                - Overview: Pricing and Profitability/Taxes Fees and Charges/Surcharges/Overview.md
+                - Item Surcharges: Pricing and Profitability/Taxes Fees and Charges/Surcharges/Item Surcharges.md
+            - Vendor Fees: Pricing and Profitability/Taxes Fees and Charges/Vendor Fees.md
+            - Agency Fees: Pricing and Profitability/Taxes Fees and Charges/Agency Fees.md
+            - Taxes:
+                - Overview: Pricing and Profitability/Taxes Fees and Charges/Taxes/Overview.md
+                - Traveller Taxes: Pricing and Profitability/Taxes Fees and Charges/Taxes/Traveller Taxes.md
+                - Order Taxes: Pricing and Profitability/Taxes Fees and Charges/Taxes/Order Taxes.md
+                - Item Taxes: Pricing and Profitability/Taxes Fees and Charges/Taxes/Item Taxes.md
+        - Profitability Dashboard: Pricing and Profitability/Profitability Dashboard.md
+    - Orders:
+        - Overview: Orders/Overview.md
+        - Customer Orders: Orders/Customer Orders.md
+        - Order Events: Orders/Order Events.md
+        - Order Changes: Orders/Order Changes.md
+        - Payments: Orders/Payments.md
+        - Delivery Tracking: Orders/Delivery Tracking.md
+        - Order Accounting: Orders/Order Accounting.md
+    - Notifications:
+        - Overview: Notifications/Overview.md
+        - Notifications: Notifications/Notifications.md
+        - Notifications History: Notifications/Notifications History.md
+    - Reports:
+        - Overview: Reports/Overview.md
+        - Reports from Power BI: Reports/Reports from Power BI.md
+        - Inventory Dashboard: Inventory/Inventory Dashboard.md
+        - Profitability Dashboard: Pricing and Profitability/Profitability Dashboard.md
+    - Content Management:
+        - Overview: Content Management/Overview.md
+        - Dynamic Content:
+            - Overview: Content Management/Dynamic Content/Overview.md
+            - Content Items: Content Management/Dynamic Content/Content Items.md
+            - Content Placeholders: Content Management/Dynamic Content/Content Placeholders.md
+            - Content Publishing: Content Management/Dynamic Content/Content Publishing.md
+        - Static Content: Content Management/Static Content.md
+        - Assets: Content Management/Assets.md
+    - Configuration:
+        - Overview: Configuration/Overview.md
+        - Price List Assignments: Configuration/Price List Assignments.md
+        - Stores & API Channels: Configuration/Stores and API Channels.md
+theme:
+    name: material
+    language: en
+    palette:
+        primary: indigo
+        accent: indigo
+        
+extra:
+  search:
+    language: en
+        
+# repo_name: VirtoCommerce/vc-platform
+# repo_url: https://github.com/VirtoCommerce/vc-platform
+
+copyright: Copyright &copy; 2020, Accelya
+
+extra:
+    social:
+      - icon: fontawesome/brands/github-alt
+        link: https://github.com/travelcommercesolutions
+      - icon: fontawesome/brands/twitter
+        link: https://twitter.com/accelya?lang=en
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/accelya/
